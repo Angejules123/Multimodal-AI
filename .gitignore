@@ -1,1 +1,19 @@
  
+# Environnements virtuels
+projet_federal_env/
+.venv/
+venv/
+
+# Données brutes et volumineuses
+data/
+results/
+logs/
+models/
+
+# Fichiers temporaires
+*.zip
+*.tar
+*.gz
+*.csv
+*.xlsx
+__pycache__/
